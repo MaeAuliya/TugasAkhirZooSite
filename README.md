@@ -10,12 +10,9 @@
 ## Co-Advisor
     Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D
 
-## Models
-### Please download this models first
-
-## Dataset
-### please download this dataset first
-    https://drive.google.com/drive/folders/1iq9k4-UbS9gdFETBBOtrcb1iEkq4aEdc?usp=sharing
+## Asset
+### Please download dataset and model first
+    https://drive.google.com/drive/folders/1_DvVtILqQ9d4fBGzNSvLJybe8ins6tNA?usp=drive_link
 
 ## User Guide
 ### 1. To use this mobile program. Clone this repo first !!
