@@ -1,13 +1,13 @@
-# TUGAS AKHIR
+# FINAL PROJECT
 ## PERBAIKAN KLASIFIKASI HEWAN PADA APLIKASI MOBILE KEBUN BINATANG DENGAN TRANSFER LEARNING
 
 ## Author
-    Maisan Auliya ( 5025201137 )
+    Maisan Auliya 
 
-## Dosen Pembimbing 1
+## Advisor
     Ir. Adhatus Solichah Ahmadiyah, S.Kom, M.Sc
 
-## Dosen Pembimbing 2
+## Co-Advisor
     Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D
 
 ## Models
